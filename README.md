@@ -116,3 +116,6 @@ e5e12910bf011222160404d7bdb824f2  /etc/cron.d/.placeholder
 ```bash
 /srv/my_app_conf/<\.tar\.gz$><RI>
 ```
+
+## PS
+Все правила в скрипте добавлены как пример.
